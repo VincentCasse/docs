@@ -12,7 +12,7 @@ To protect customer services exposed on public IP addresses, OVHcloud offers a s
 
 > [!primary]
 >
-> You can find more information on our Anti-DDoS solution on our website: <https://www.ovhcloud.com/en-ie/security/anti-ddos/>.
+> You can find more information on our Anti-DDoS solution on [our website](/links/security/antiddos).
 > 
 
 | ![global-schema](images/global_schema.png) | 
@@ -48,7 +48,7 @@ The Edge Network Firewall reduces exposure to network DDoS attacks by allowing u
 > The Edge Network Firewall protects a specific IP associated with a server (or service). Therefore, if you have a server with multiple IP addresses, you must configure each IP separately.
 > 
 
-In the OVHcloud Control Panel, click on the `Bare Metal Cloud`{.action} section, next click on the `Network`{.action} menu and open `Public IP Adresses`{.action}. You can use the drop-down menu underneath **"My public IP addresses and associated services"** to filter your services according to category.
+In the OVHcloud Control Panel, click on the `Bare Metal Cloud`{.action} section, next click on the `Network`{.action} menu and open `IP`{.action}. You can use the drop-down menu underneath **"My public IP addresses and associated services"** to filter your services according to category.
 
 ![filter service](images/selectservice_cut.png){.thumbnail}
 

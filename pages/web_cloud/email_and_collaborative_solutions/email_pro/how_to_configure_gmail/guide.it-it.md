@@ -1,7 +1,7 @@
 ---
 title: 'Email Pro - Configura il tuo account di posta elettronica su Gmail'
 excerpt: 'Come configurare un account Email Pro dall’interfaccia Web di Gmail'
-updated: 2024-09-24
+updated: 2025-02-17
 ---
 
 ## Obiettivo
@@ -34,18 +34,22 @@ Gli account Email Pro possono essere configurati su client o applicazioni di pos
 
 > [!primary]
 >
-> Nel nostro esempio abbiamo utilizzato come nome del server "pro**?**.mail.ovh.net", dove "?" dovrà essere sostituito con il numero che indica il server del servizio Email Pro.
+> Nel nostro esempio abbiamo utilizzato come nome del server "pro?.mail.ovh.net", dove "?" dovrà essere sostituito con il numero che indica il server del servizio Email Pro.
 >
 > Questa informazione è disponibile nello [Spazio Cliente OVHcloud](/links/manager), sezione `Web Cloud`{.action}, selezionando `Email Pro`{.action}. Il nome del server è visibile nel riquadro **Connessione** della scheda `Informazioni generali`{.action}.
 >
 
 Accedi tramite browser all’interfaccia Web di Gmail, inserisci le credenziali del tuo account ed effettua il login.
 
-Clicca sull’icona a forma di ingranaggio in alto a destra e poi su `Visualizza tutti le impostazioni`{.action}. Seleziona la scheda `Account e importazione`{.action}.
+Clicca sull’icona a forma di ingranaggio in alto a destra e poi su `Visualizza tutti le impostazioni`{.action}.
 
 ![Email Pro](images/configuration-gmail-web-step1.png){.thumbnail}
 
-Nella sezione `Controlla la posta da altri account`, clicca su `Aggiungi un account email`{.action}. Nella nuova finestra, inserisci il tuo indirizzo Email Pro OVHcloud e clicca su `Avanti`{.action}. Seleziona `Importa le email dal mio altro account (POP3)`{.action} e clicca di nuovo su `Avanti`{.action}.
+Seleziona la scheda `Account e importazione`{.action}. Nella sezione `Controlla la posta da altri account`, clicca su `Aggiungi un account email`{.action}.
+
+![Email Pro](images/configuration-gmail-web-step1-2.png){.thumbnail}
+
+Nella nuova finestra, inserisci il tuo indirizzo Email Pro OVHcloud e clicca su `Avanti`{.action}. Seleziona `Importa le email dal mio altro account (POP3)`{.action} e clicca di nuovo su `Avanti`{.action}.
 
 ![Email Pro](images/configuration-gmail-web-step2.png){.thumbnail}
 
@@ -55,7 +59,7 @@ Indica i parametri del server POP (server in entrata) del tuo account Email Pro 
 |---|---|
 |Nome utente|Inserisci l’indirizzo email completo|
 |Password|Inserisci la password associata all’account|
-|Server POP|Inserisci il server “pro**?**.mail.ovh.net”|
+|Server POP|Inserisci il server “pro?.mail.ovh.net”|
 |Porta|Seleziona la porta 995|
 
 Ecco le opzioni disponibili:
@@ -82,7 +86,7 @@ A questo punto ti verrà chiesto di indicare i parametri del server SMTP (server
 
 |Informazione|Descrizione|
 |---|---|
-|Server SMTP|Inserisci il server “pro**?**.mail.ovh.net”|
+|Server SMTP|Inserisci il server “pro?.mail.ovh.net”|
 |Porta|Seleziona la porta 587|
 |Nome utente|Inserisci l’indirizzo email completo|
 |Password|Inserisci la password associata all’account|

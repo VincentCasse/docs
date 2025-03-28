@@ -1,7 +1,7 @@
 ---
 title: Local Zone Compute - Features, Capabilities and Limitations
 excerpt: Find out the current features, capabilities and limitations of Local Zones for Public Cloud
-updated: 2024-11-12
+updated: 2025-03-27
 ---
 
 ## Objective
@@ -27,9 +27,9 @@ Find more information on our [dedicated Local Zone Compute page](/links/public-c
 | Stop | Yes |
 | Block Storage | Yes |
 | Instance Backups | Yes |
-| Automatic Backups | No |
-| Volume Snapshots | No |
-| Volume Backups | No |
+| Automatic Backups | Yes |
+| Volume Snapshots | Yes |
+| Volume Backups | Yes |
 | Object Storage | Yes |
 | Windows Images | No |
 

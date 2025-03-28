@@ -41,11 +41,11 @@ Aceda à [Área de Cliente OVHcloud](/links/manager), vá à secção `Bare Meta
 
 No separador `Informações gerais`{.action}, clique no botão `...`{.action} junto ao nome do seu VPS na secção **O seu VPS**.
 
-![Open KVM](/pages/assets/screens/control_panel/product-selection/bare-metal-cloud/vps/open-kvm.png){.thumbnail}
+![Open KVM](/pages/assets/screens/control_panel/product-selection/bare-metal-cloud/vps/cp_kvm.png){.thumbnail}
 
 ### Como abrir a consola KVM através da API OVHcloud
 
-/// details |  expanda esta secção
+/// details |  Expanda esta secção
 
 Se não está familiarizado com a utilização da API OVHcloud, consulte o nosso guia "[Primeiros passos com as API OVHcloud](/pages/manage_and_operate/api/first-steps)".
 

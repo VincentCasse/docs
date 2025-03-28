@@ -1,17 +1,13 @@
 ---
 title: FAQ VPS OVHcloud
-updated: 2023-07-06
+updated: 2025-03-25
 ---
-
-> [!primary]
-> Tłumaczenie zostało wygenerowane automatycznie przez system naszego partnera SYSTRAN. W niektórych przypadkach mogą wystąpić nieprecyzyjne sformułowania, na przykład w tłumaczeniu nazw przycisków lub szczegółów technicznych. W przypadku jakichkolwiek wątpliwości zalecamy zapoznanie się z angielską/francuską wersją przewodnika. Jeśli chcesz przyczynić się do ulepszenia tłumaczenia, kliknij przycisk "Zgłóś propozycję modyfikacji" na tej stronie.
->
 
 ## FAQ VPS
 
 ### Do czego służy serwer?
 
-VPS to serwer wirtualny (Virtual Private Server), na którym można instalować strony WWW (witryny, serwisy e-commerce, treści...) oraz aplikacje (portale wewnątrzfirmowe, rozwiązania do pracy zespołowej, wiki, CRM, ...).
+VPS to serwer wirtualny (Virtual Private Server), na którym można instalować strony WWW (witryny, serwisy e-commerce, treści...) oraz aplikacje (portale wewnątrzfirmowe, rozwiązania do pracy zespołowej, wiki, CRM, ...).  
  W przeciwieństwie do hostingu, VPS umożliwia odizolowanie od siebie kilku aplikacji utrzymywanych na jednej wirtualnej maszynie, która należy do jednego klienta. 
 
 VPS, rozwiązanie pośrednie między hostingiem a serwerem fizycznym, charakteryzuje się niezawodnością i wydajnością sprzętu dedykowanego, różni się jednak tym, że nie musisz nim zarządzać.
@@ -24,7 +20,7 @@ Pamiętaj jednak, żeby wybrać odpowiedni VPS.  Potrzebujesz konfiguracji dopas
 
 ### VPS czy hosting Plesk?
 
-Wraz z pakietem hostingowym Plesk otrzymujesz serwer, na którym jest wstępnie zainstalowana platforma Plesk.  Możesz zarządzać stronami WWW, ale nie jesteś administratorem usługi. Może on być wykorzystywany wyłącznie do zarządzania.
+Wraz z pakietem hostingowym Plesk otrzymujesz serwer, na którym jest wstępnie zainstalowana platforma Plesk.  Możesz zarządzać stronami WWW, ale nie jesteś administratorem usługi. Może on być wykorzystywany wyłącznie do zarządzania.  
 Wybierając VPS, stajesz się administratorem Twojego serwera, a OVHcloud nie ma dostępu do jego zawartości. Możesz zatem używać go dowolnie zgodnie z Twoimi potrzebami.
 
 ### VPS czy serwer dedykowany?
@@ -37,7 +33,7 @@ Użytkownicy VPS, których projekty szybko się rozwijają, w kolejnym kroku mog
 
 ### Jakie są różnice między rozwiązaniami VPS a Public Cloud?
 
-VPS to rozwiązanie przewidziane dla środowisk preprodukcyjnych i produkcyjnych, które nie wymagają stałej wydajności.
+VPS to rozwiązanie przewidziane dla środowisk preprodukcyjnych i produkcyjnych, które nie wymagają stałej wydajności.  
 OVHcloud oferuje infrastrukturę z wieloma serwerami o wysokiej dostępności. W przeciwieństwie do VPS, Public Cloud obejmuje również usługę vRack.
 
 ### Jak wybrać serwer VPS?
@@ -50,7 +46,7 @@ Aby wybrać serwer VPS dostosowany do Twoich potrzeb, sprawdź:
 
 Pozwoli Ci to dokonać właściwego wyboru spośród naszych rozwiązań VPS:
 
-- **VPS Starter**: ekskluzywna maszyna do testowania naszej oferty (tylko z dystrybucją Linux, bez webowego panelu zarządzania);
+- **VPS Starter**: ekskluzywna maszyna do testowania naszej oferty (tylko z dystrybucją Linux);
 - **VPS Value, Essential i Comfort**: idealne do hostingu stron WWW, usług e-commerce lub systemów monitoringu;
 - **VPS Elite**: dostosowane do sklepów internetowych i aplikacji wymagających większych zasobów procesora i pamięci.
 - **VPS Limited Edition** (Ilość ograniczona): serwery VPS zapewniają większą wydajność i dużą zaletę w hostowaniu złożonych stron WWW, aplikacji wymagających ogromnych zasobów, a nawet serwerów gier. Ta oferta jest ważna do wyczerpania zapasów.
@@ -60,14 +56,14 @@ Pozwoli Ci to dokonać właściwego wyboru spośród naszych rozwiązań VPS:
 
 ### Kto może korzystać z serwera VPS?
 
-Każda osoba posiadająca podstawową wiedzę techniczną z zakresu administracji serwerami może korzystać z VPS.  Kompetencje te są niezbędne do zarządzania zainstalowanym na maszynie systemem operacyjnym (Linux lub Windows) i do konfigurowania aplikacji. Myślisz, że potrzebujesz serwera VPS, ale czy nie posiadasz wymaganych kompetencji? Prosimy o kontakt z jednym z naszych partnerów. 
+Każda osoba posiadająca podstawową wiedzę techniczną z zakresu administracji serwerami może korzystać z VPS.  Kompetencje te są niezbędne do zarządzania zainstalowanym na maszynie systemem operacyjnym (Linux lub Windows) i do konfigurowania aplikacji. Myślisz, że potrzebujesz serwera VPS, ale czy nie posiadasz wymaganych kompetencji? Prosimy o kontakt z jednym z naszych [partnerów](/links/partner).
 
-Jeśli chcesz korzystać z gwarantowanych zasobów bez znajomości administrowania serwerami, zalecamy nasze [hosting Performance](https://www.ovh.pl/hosting/hosting-performance.xml).
+Jeśli chcesz korzystać z gwarantowanych zasobów bez znajomości administrowania serwerami, zalecamy nasze [hosting Performance](/links/hosting-performance-offer).
 
 ### Jak się zalogować do mojego VPS?
 
-Połączenie z serwerem VPS będzie realizowane za pomocą protokołu SSH, przy użyciu adresu IP, nazwy użytkownika i hasła przesłanego e-mailem po otrzymaniu zamówienia.
-Na komputerze z systemem Windows zalecane jest logowanie się przy użyciu programu Putty. Połączenie można wykonać bezpośrednio na urządzeniu z poziomu komputera Linux.
+Możesz łączyć się zdalnie z Twoim serwerem VPS, używając danych dostarczonych w wiadomości e-mail po udostępnieniu usługi.  
+Sposób połączenia zależy od używanego systemu operacyjnego.
 
 Szczegóły znajdziesz w przewodniku ["Pierwsze kroki z serwerem VPS"](/pages/bare_metal_cloud/virtual_private_servers/starting_with_a_vps).
 
@@ -77,7 +73,7 @@ Tak Możesz podzielić serwer VPS i dostosować go do Twoich potrzeb. Możesz za
 
 ### Czy mój VPS ma kopię zapasową?
 
-OVHcloud nie tworzy kopii zapasowych danych hostowanych na Twoim serwerze VPS. Ich utworzenie należy zatem do Ciebie.
+OVHcloud nie dostarcza kopii zapasowych danych hostowanych na Twoim serwerze VPS. Musisz zastosować własną strategię tworzenia kopii zapasowych.  
 W tym celu możesz skorzystać z następujących opcji: ręczna kopia zapasowa (Snapshot) lub automatyczny backup.
 
 ### Jak zabezpieczyć serwer VPS?
@@ -97,29 +93,29 @@ OVHcloud oferuje SLA na poziomie 99,9% dla wszystkich ofert VPS.
 
 Dostęp do backupu FTP może być ograniczony do usługi, do której jest on przypisany za pośrednictwem Panelu klienta OVHcloud.
 
-Aby móc dodawać inne adresy IP różnych usług, możesz użyć API OVHcloud.
-Dzięki temu będziesz mógł pobrać Twoje kopie zapasowe z usługi w innej lokalizacji.
+Aby autoryzować dodatkowe adresy IP, z których chcesz uzyskać dostęp do Backup Storage, skorzystaj z API OVHcloud.  
+Dzięki temu będziesz mógł pobierać kopie zapasowe danych z innej usługi za pomocą różnych protokołów (FTP, NFS, CIFS).
 
 > [!warning]
 > Zezwala się wyłącznie na adresy IP OVHcloud.
 >
 
-Zaloguj się na stronie [https://api.ovh.com/](https://api.ovh.com/) i skorzystaj z następującego połączenia:
+Zaloguj się do [konsoli API OVHcloud](/links/api) przy użyciu danych logowania do konta klienta i wykonaj następujące wywołanie:
 
 > [!api]
 >
 > @api {v1} /vps POST /vps/{serviceName}/backupftp/access
 >
 
-Wpisz pola w następujący sposób:
+Zmień parametry w następujący sposób:
 
-- `serviceName `: nazwa serwera VPS
-- `cifs `: zaznacz w razie potrzeby
-- `ftp`: zaznacz w razie potrzeby
-- `ipBlock`: wprowadź adres IP, który będzie miał dostęp w formie `1.2.3.4/32`
-- `nfs`: zaznacz w razie potrzeby
+- `serviceName`: wprowadź wewnętrzną nazwę Twojego serwera VPS (`vps-x11x11xyy.vps.ovh.net`).
+- `cifs`: Jeśli używasz tego protokołu, ustaw dla tego parametru wartość `true`.
+- `ftp`: ustaw dla tego parametru wartość `true`, jeśli używasz tego protokołu.
+- `ipBlock`: wprowadź adres IP, który będzie miał do niego dostęp, w formie `203.0.113.100/32`.
+- `nfs`: Jeśli używasz tego protokołu, ustaw dla tego parametru wartość `true`.
 
-![post api](images/post-api.png){.thumbnail}
+Kliknij przycisk `EXECUTE`{.action}.
 
 Aby sprawdzić, czy Twój adres IP jest poprawnie autoryzowany, użyj następującego połączenia:
 
@@ -128,8 +124,8 @@ Aby sprawdzić, czy Twój adres IP jest poprawnie autoryzowany, użyj następuj�
 > @api {v1} /vps GET /vps/{serviceName}/backupftp/access
 >
 
-![get api](images/get-api.png){.thumbnail}
-
 ## Sprawdź również
 
-Dołącz do społeczności naszych użytkowników na stronie <https://community.ovh.com/en/>.
+Jeśli chcesz otrzymywać wsparcie w zakresie konfiguracji i użytkowania Twoich rozwiązań OVHcloud, zapoznaj się z naszymi [ofertami pomocy](/links/support).
+
+Dołącz do [grona naszych użytkowników](/links/community).

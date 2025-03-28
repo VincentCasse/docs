@@ -1,7 +1,7 @@
 ---
 title: 'Email Pro - Configurar una cuenta en la interfaz web de Gmail'
 excerpt: 'Cómo configurar una cuenta Email Pro en la interfaz web de Gmail'
-updated: 2024-09-24
+updated: 2025-02-17
 ---
 
 ## Objetivo
@@ -34,18 +34,22 @@ Es posible configurar sus cuentas Email Pro en el cliente de correo que usted ut
 
 > [!primary]
 >
-> En nuestro ejemplo, hemos utilizado la mención servidor: pro**?**.mail.ovh.net. Sustituya la «?» por la cifra que designa al servidor de su servicio Email Pro.
+> En nuestro ejemplo, hemos utilizado la mención servidor: pro?.mail.ovh.net. Sustituya la «?» por la cifra que designa al servidor de su servicio Email Pro.
 >
 > Puede consultar esta cifra en su [área de cliente de OVHcloud](/links/manager), en la sección `Web Cloud`{.action} y `Email Pro`{.action}. El nombre del servidor aparece en el marco **Conexión** de la pestaña `Información general`{.action}.
 >
 
 En primer lugar, acceda a la interfaz web de Gmail desde su navegador de internet. Introduzca la información de su cuenta Gmail y conéctese.
 
-Haga clic en el icono con forma de rueda dentada y seleccione `Ver todos los ajustes`{.action}. A continuación, haga clic en `Cuentas e importación`{.action}.
+Haga clic en el icono con forma de rueda dentada y seleccione `Ver todos los ajustes`{.action}.
 
 ![Email Pro](images/configuration-gmail-web-step1.png){.thumbnail}
 
-En el apartado **Consultar el correo de otras cuentas**, haga clic en `Añadir una cuenta de correo`{.action}. Se abrirá una ventana en la que deberá introducir su cuenta Email Pro de OVHcloud y hacer clic en `Siguiente`{.action}. Seleccione la opción `Importar correos electrónicos de mi otra cuenta (POP3)`{.action} y haga clic en `Siguiente`{.action}.
+A continuación, haga clic en `Cuentas e importación`{.action}. En el apartado `Consultar el correo de otras cuentas`, haga clic en `Añadir una cuenta de correo`{.action}.
+
+![Email Pro](images/configuration-gmail-web-step1-2.png){.thumbnail}
+
+Se abrirá una ventana en la que deberá introducir su cuenta Email Pro de OVHcloud y hacer clic en `Siguiente`{.action}. Seleccione la opción `Importar correos electrónicos de mi otra cuenta (POP3)`{.action} y haga clic en `Siguiente`{.action}.
 
 ![Email Pro](images/configuration-gmail-web-step2.png){.thumbnail}
 
@@ -55,7 +59,7 @@ Introduzca a continuación la configuración del servidor POP (servidor de entra
 |---|---|
 |Nombre de usuario|Introduzca la dirección de correo electrónico completa.|
 |Contraseña|Introduzca la contraseña de la dirección de correo electrónico.|
-|Servidor POP|Introduzca el servidor pro**?**.mail.ovh.net.|
+|Servidor POP|Introduzca el servidor pro?.mail.ovh.net.|
 |Puerto|Seleccione el puerto **995**.|
 
 Estas son las opciones que puede elegir:
@@ -82,7 +86,7 @@ Introduzca a continuación la configuración del servidor SMTP (servidor de sali
 
 |Campo|Descripción|
 |---|---|
-|Servidor SMTP|Introduzca el servidor pro**?**.mail.ovh.net.|
+|Servidor SMTP|Introduzca el servidor pro?.mail.ovh.net.|
 |Puerto|Seleccione el puerto **587**.|
 |Nombre de usuario|Introduzca la dirección de correo electrónico completa.|  
 |Contraseña|Introduzca la contraseña de la dirección de correo electrónico.|

@@ -11,6 +11,7 @@ account-and-service-management-managing-billing-payments-and-services-invoices-b
 account-and-service-management-managing-billing-payments-and-services-invoices-billing-and-payments-public-cloud: Public Cloud
 account-and-service-management-managing-billing-payments-and-services-invoices-billing-and-payments-ai-notebooks: AI Notebooks
 account-and-service-management-managing-billing-payments-and-services-renewing-a-service: Renovar um serviço
+account-and-service-management-managing-billing-payments-and-services-managing-services: Gestão de serviços
 account-and-service-management-managing-billing-payments-and-services-terminating-a-service: Rescisão de um serviço
 account-and-service-management-managing-billing-payments-and-services-terminating-a-service-hosted-private-cloud: Hosted Private Cloud
 account-and-service-management-reversibility: Reversibilidade
@@ -69,9 +70,10 @@ hosted-private-cloud-hosted-private-cloud-powered-by-vmware-vrops: VMware vROps
 hosted-private-cloud-sap-ovhcloud: SAP on OVHcloud
 hosted-private-cloud-sap-ovhcloud-concepts: Conceitos
 hosted-private-cloud-sap-ovhcloud-getting-started: Primeiros passos
-hosted-private-cloud-sap-ovhcloud-advanced-usage: Utilização avançada
+hosted-private-cloud-sap-ovhcloud-automated-deployments: Implementações automáticas
+hosted-private-cloud-sap-ovhcloud-resilience: Resiliência
 hosted-private-cloud-sap-ovhcloud-backups: Backups
-hosted-private-cloud-sap-ovhcloud-observability: Observability
+hosted-private-cloud-sap-ovhcloud-observability: Observabilidade
 ovhcloud-labs-data-collector: Data Collector
 ovhcloud-labs-data-collector-getting-started: Primeiros passos
 ovhcloud-labs-power-web-hosting: POWER Web Hosting
@@ -283,6 +285,7 @@ web-cloud-hosting-configuring-web-hosting-plan: Configurar o alojamento web Pers
 web-cloud-hosting-databases: Bases de dados
 web-cloud-hosting-ftp-and-ssh: FTP e SSH
 web-cloud-hosting-getting-started: Primeiros passos
+web-cloud-hosting-general-information: Informações gerais
 web-cloud-hosting-php: PHP
 web-cloud-hosting-redirection-and-authentication: Reencaminhamento e autenticação
 web-cloud-hosting-ssl: SSL
@@ -311,8 +314,10 @@ storage-backup-and-disaster-recovery-solution: Backup and disaster recovery sol
 storage-backup-and-disaster-recovery-solution-veeam: Veeam
 storage-backup-and-disaster-recovery-solution-hycu: HYCU for OVHcloud
 storage-backup-and-disaster-recovery-solution-kubernetes-data-protection: Managed Kubernetes - Data Protection
+storage-backup-and-disaster-recovery-solution-agent-backup-for-iaas: Agent Backup for IaaS
 network-byoip: Bring your own IP (BYOIP)
 network-additional-ip: Additional IP
+network-bgp: BGP Service
 network-security: Rede e Segurança
 network-ovhcloud-connect: OVHcloud Connect
 network-ovhcloud-connect-concepts: Conceitos

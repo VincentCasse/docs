@@ -11,12 +11,13 @@ account-and-service-management-managing-billing-payments-and-services-invoices-b
 account-and-service-management-managing-billing-payments-and-services-invoices-billing-and-payments-public-cloud: Public Cloud
 account-and-service-management-managing-billing-payments-and-services-invoices-billing-and-payments-ai-notebooks: AI Notebooks
 account-and-service-management-managing-billing-payments-and-services-renewing-a-service: Verlängerung einer Dienstleistung
+account-and-service-management-managing-billing-payments-and-services-managing-services: Verwaltung von Dienstleistungen
 account-and-service-management-managing-billing-payments-and-services-terminating-a-service: Kündigung einer Dienstleistung
 account-and-service-management-managing-billing-payments-and-services-terminating-a-service-hosted-private-cloud: Hosted Private Cloud
 account-and-service-management-reversibility: Reversibilität
 account-and-service-management-reversibility-reversibility-policies: Reversibilitätstrategie
 account-and-service-management-responsibility-sharing: Geteilte Verantwortung
-bare-metal-cloud-dedicated-servers: Dedicated server
+bare-metal-cloud-dedicated-servers: Dedicated Server
 bare-metal-cloud-dedicated-servers-advanced-usage: Fortgeschrittene Anwendung
 bare-metal-cloud-dedicated-servers-getting-started: Erste Schritte
 bare-metal-cloud-dedicated-servers-managing-servers: Server verwalten
@@ -69,7 +70,8 @@ hosted-private-cloud-hosted-private-cloud-powered-by-vmware-vrops: VMware vROps
 hosted-private-cloud-sap-ovhcloud: SAP on OVHcloud
 hosted-private-cloud-sap-ovhcloud-concepts: Konzepte
 hosted-private-cloud-sap-ovhcloud-getting-started: Erste Schritte
-hosted-private-cloud-sap-ovhcloud-advanced-usage: Fortgeschrittene Anwendung
+hosted-private-cloud-sap-ovhcloud-automated-deployments: Automatische Deployments
+hosted-private-cloud-sap-ovhcloud-resilience: Resilienz
 hosted-private-cloud-sap-ovhcloud-backups: Backups
 hosted-private-cloud-sap-ovhcloud-observability: Observability
 ovhcloud-labs-data-collector: Data Collector
@@ -81,8 +83,8 @@ ovhcloud-labs-power-web-hosting-python: Python
 ovhcloud-labs-power-web-hosting-ruby: Ruby
 ovhcloud-labs-prescience: Prescience
 ovhcloud-labs-prescience-getting-started: Erste Schritte
-public-cloud-ai-and-machine-learning: AI & machine learning
-public-cloud-ai-and-machine-learning-general-information: General information
+public-cloud-ai-and-machine-learning: AI & Machine Learning
+public-cloud-ai-and-machine-learning-general-information: General Information
 public-cloud-ai-and-machine-learning-command-line-interface: Command Line Interface
 public-cloud-ai-and-machine-learning-ai-notebooks: AI Notebooks
 public-cloud-ai-and-machine-learning-ai-notebooks-guides: AI Notebooks - Guides
@@ -226,7 +228,7 @@ web-cloud-email-collaborative-solutions-microsoft-office: Microsoft Office
 web-cloud-email-collaborative-solutions-zimbra: Zimbra
 web-cloud-domains: Domains
 web-cloud-domains-api: API
-web-cloud-domains-api-frequent-tasks: Häufige Tasks
+web-cloud-domains-api-frequent-tasks: Wiederkehrende Tasks
 web-cloud-domains-dns: DNS (Domain Name System)
 web-cloud-domains-dns-dns-options: DNS-Optionen
 web-cloud-domains-dns-dns-records: DNS-Einträge
@@ -284,6 +286,7 @@ web-cloud-hosting-configuring-web-hosting-plan: Konfiguration von Basic, Pro und
 web-cloud-hosting-databases: Datenbanken
 web-cloud-hosting-ftp-and-ssh: FTP und SSH
 web-cloud-hosting-getting-started: Erste Schritte
+web-cloud-hosting-general-information: Allgemeine Informationen
 web-cloud-hosting-php: PHP
 web-cloud-hosting-redirection-and-authentication: Weiterleitung und Authentifizierung
 web-cloud-hosting-ssl: SSL
@@ -312,8 +315,10 @@ storage-backup-and-disaster-recovery-solution: Backup and disaster recovery sol
 storage-backup-and-disaster-recovery-solution-veeam: Veeam
 storage-backup-and-disaster-recovery-solution-hycu: HYCU for OVHcloud
 storage-backup-and-disaster-recovery-solution-kubernetes-data-protection: Managed Kubernetes - Data Protection
+storage-backup-and-disaster-recovery-solution-agent-backup-for-iaas: Agent Backup for IaaS
 network-byoip: Bring your own IP (BYOIP)
 network-additional-ip: Additional IP
+network-bgp: BGP Service
 network-security: Netzwerk und Sicherheit
 network-ovhcloud-connect: OVHcloud Connect
 network-ovhcloud-connect-concepts: Konzepte
